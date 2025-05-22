@@ -1,0 +1,20 @@
+# 虚拟环境
+venv/
+__pycache__/
+**/__pycache__
+
+# 环境变量和配置
+.env
+
+# 临时文件和目录
+temp/
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+
+# IDE相关文件
+.vscode/
+.idea/
+*.pyc
